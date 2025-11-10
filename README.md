@@ -48,7 +48,7 @@ Você pode **falar com o ChatGPT usando o microfone** e **ouvir as respostas** d
 
 ## 🚀 Execução do Projeto Completo
 
-### 🧰 Pré-requisitos
+### Pré-requisitos
 
 1. **Python 3.9+** instalado.
 
@@ -77,7 +77,7 @@ Você pode **falar com o ChatGPT usando o microfone** e **ouvir as respostas** d
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Acesse a pasta **ProjetoCompleto**:
 
@@ -124,19 +124,24 @@ O código é dividido em funções simples e bem organizadas:
 
 ---
 
-## 🧩 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 
-**Azure OpenAI**                    | Geração de texto (ChatGPT)
-**Azure Cognitive Services Speech** | Reconhecimento e síntese de fala
-**Python**                          | Linguagem principal
-**dotenv**                          | Leitura de variáveis de ambiente
-**openai SDK**                      | Conexão com Azure OpenAI    
-**azure-cognitiveservices-speech**  | Conexão com Azure Speech
+**Azure OpenAI** - Geração de texto (ChatGPT)
+
+**Azure Speech** - Reconhecimento e síntese de fala
+
+**Python** - Linguagem principal
+
+**dotenv** - Leitura de variáveis de ambiente
+
+**openai SDK** - Conexão com Azure OpenAI    
+
+**azure-cognitiveservices-speech** - Conexão com Azure Speech
 
 ---
 
-## 🧪 Exemplo de Interação
+## Exemplo de Interação
 
 ```
 --- Chatbot IA Iniciado (fale 'sair' para sair) ---
